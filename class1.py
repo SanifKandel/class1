@@ -15,8 +15,11 @@ print(b[:])
 print(b[-1:0:-1])
 print(b[::-1])"""
 
-a='Johnson Paul'
+"""a='Johnson Paul'
 print(a[:])
 print(a[1:])
 print(a[-5:0:-1])
-print(a[-1:-2])
+print(a[-1:-2])"""
+
+a = 5
+print(a)
